@@ -1,4 +1,4 @@
-# AreYouAnIdiot?
+# Are You An Idiot?
 This is just a fun Swing COde which creates a JFrame which cannot be extied unless you accecpt that You are an idiot! This code was created in free time and just for fun.
 
 ## Working 
